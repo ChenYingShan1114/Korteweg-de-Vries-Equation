@@ -1,7 +1,8 @@
 # Korteweg-de Vries (KdV) Equation
 ## Reference
-A. L. Garcia, "Numerical Methods for Physics": \ 
-Chapter 9 Partial Differential Equations IV: Stability and Implicit Methods
+A. L. Garcia, "Numerical Methods for Physics":  \
+    Chapter 9 Partial Differential Equations IV: Stability and Implicit Methods \
+    The header file of **Matrix.h** and **inv.h** are from "Numerical Methods for Physics Second Edition -- Alejandro L. Garcia".
 
 ## Exercisies
 Korteweg-de Vries equation, 
@@ -49,6 +50,3 @@ and solve
 
 ## Result
 ![Image](https://github.com/ChenYingShan1114/Korteweg-de-Vries-Equation/blob/main/KdV.png)
-
-### Reference
-The header file of **Matrix.h** and **inv.h** are from "Numerical Methods for Physics Second Edition -- Alejandro L. Garcia".

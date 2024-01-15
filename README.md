@@ -1,4 +1,9 @@
 # Korteweg-de Vries (KdV) Equation
+## Reference
+A. L. Garcia, "Numerical Methods for Physics": \ 
+Chapter 9 Partial Differential Equations IV: Stability and Implicit Methods
+
+## Exercisies
 Korteweg-de Vries equation, 
 ```math
 \frac{\partial \rho}{\partial t}=-6\rho \frac{\partial \rho}{\partial x} - \frac{\partial ^3 \rho}{\partial x^3}

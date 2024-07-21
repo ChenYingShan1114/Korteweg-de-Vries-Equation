@@ -49,4 +49,4 @@ and solve
 ```
 
 ## Result
-![Image](https://github.com/ChenYingShan1114/Korteweg-de-Vries-Equation/blob/main/KdV.png)
+![Image](https://github.com/ChenYingShan1114/Korteweg-de-Vries-Equation/blob/main/KdV_figure.png)

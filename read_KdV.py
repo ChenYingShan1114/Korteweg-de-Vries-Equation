@@ -53,7 +53,7 @@ for line in fo:
 fo.close()
 rho_explicit = np.array(list)
 
-_matrixpath = 'rho_theo_explicit_plot.txt'
+path = 'rho_theo_explicit_plot.txt'
 data_list = []
 list = []
 fo = open(path, 'r')

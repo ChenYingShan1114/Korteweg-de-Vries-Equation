@@ -170,6 +170,6 @@ ax1.set_title('Use matrix implicit scheme (Crank-Nicolson)')
 
 plt.tight_layout()
 #plt.show()
-plt.savefig('KdV.png')
+plt.savefig('KdV_figure.png')
   
 

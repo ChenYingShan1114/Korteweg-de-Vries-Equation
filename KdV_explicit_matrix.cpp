@@ -1,5 +1,5 @@
 //  KdV - Program to solve the Korteweg-de Vries equation
-//  by using the implicit scheme (Crank-Nicolson)
+//  by using the explicit scheme with matrix
 #include <iostream>
 #include <fstream>
 #include <assert.h>
